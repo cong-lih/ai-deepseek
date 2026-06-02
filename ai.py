@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # 大标题
-st.title("AI智能伴侣")
+st.title("AI智能")
 
 
 
